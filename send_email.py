@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/python3
 '''
 # send_email.py - a program to send email using smtplib
 #
