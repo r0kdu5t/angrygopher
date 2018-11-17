@@ -1,0 +1,5 @@
+Hello ${PERSON_NAME}, 
+We sent this email using Python smtplib module. Cool, right?
+
+Have a bright day ahead! 
+Cheers
