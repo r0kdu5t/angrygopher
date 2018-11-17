@@ -11,8 +11,8 @@ from string import Template
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-SEND_FROM = 'ponderosaontuckers@gmail.com'
-EMAIL_PWD = 'ijhdofxwjycbjrnp'
+SEND_FROM = 'SEND_FROM'
+EMAIL_PWD = 'EMAIL_PWD'
 
 def get_users_data(file_name):
     user_name = []
